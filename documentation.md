@@ -13,6 +13,12 @@ I decided to work with a Web-safe Grayscale Color Palette in order to keep the W
 |#4d4d4d    |sections |
 |#000000    |buttons  |
 
+The first of the Wire Frame pages was the Home. 
+
+<img src="wireframes/homedesktop.png" width=100%>
+
+
+
 ---
 
 ## Contributors
