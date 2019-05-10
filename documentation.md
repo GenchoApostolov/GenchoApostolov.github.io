@@ -25,6 +25,10 @@ The third created Wire Frame was for the Services page.
 
 <img src="wireframes/servicesmobile.png" width=30%>
 
+And the last page was the Contact one.
+
+<img src="wireframes/contactmobile.png" width=30%>
+
 <img src="wireframes/aboutdesktop.
 
 ---
