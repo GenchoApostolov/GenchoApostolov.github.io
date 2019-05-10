@@ -17,9 +17,13 @@ The approach I took while designing the Website Wire Frames was Mobile First. Th
 
 <img src="wireframes/homemobile.png" width=30%>
 
-AFter that, the About page was created.
+After that, the About page was created.
 
 <img src="wireframes/aboutmobile.png" width=30%>
+
+The third created Wire Frame was for the Services page.
+
+<img src="wireframes/servicesmobile.png" width=30%>
 
 <img src="wireframes/aboutdesktop.
 
