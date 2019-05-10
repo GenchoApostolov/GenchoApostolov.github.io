@@ -29,6 +29,11 @@ And the last page was the Contact one.
 
 <img src="wireframes/contactmobile.png" width=30%>
 
+After finish the Mobile Wire Frames, I moved to designing their Desktop version counterparts.
+
+<img src="wireframes/homedesktop.png" width=100%>
+
+
 <img src="wireframes/aboutdesktop.
 
 ---
