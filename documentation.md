@@ -45,7 +45,10 @@ And the last page was the Contact one.
 
 <img src="wireframes/contactdesktop.png" width=100%>
 
+Having finished the Website Wire Frames, I moved on to decide what Color Palette would fit the website. The thought behind choosing these colors, was that I wanted the website to look professional, yet energetic. I think the combination of colors offers exaclty that and still has a modern feel to it.
+
 <img src="wireframes/websitecolorpalette.png" width=100%>
+
 
 ---
 
