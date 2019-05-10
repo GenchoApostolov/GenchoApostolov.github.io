@@ -1,6 +1,6 @@
 # My Personal Website
 <h1> Introduction </h1>
-Branding nowadays is very important and what better way to do that than build your own website. In order to promote myself, I chose to create a website with four pages. This document describes each step I took when creating the website. 
+Branding nowadays is very important and what better way to do that than build your own website. In order to promote myself, I chose to create a website with four pages. This document describes each step I took when creating the website. Here is the website URL: https://genchoapostolov.github.io/
 <h1> Low Fidelity Wire Frames </h1>
 The development process started with the creation of the Website's Wire Frames. The goal of the Low Fidelity Wire Frames is to show how the website would look when finished. As I mentioned above, four pages were created - a ''Home'' page, an ''About'' page giving more information about who I am and what I do, a page that illustrates the services I offer as a Freelance Designer and Front-End Developer that I named ''Services'' and a ''Contact'' page, so future clients could get in touch with me. I used Figma when creating the Website's Wire Frames, mainly because I already have a lot of experience with this design tool and feel comfortable using it. <br>
 I decided to work with a Web-safe Grayscale Color Palette in order to keep the Wire Frames as simple as possible. In the table below the image you can see which color was used for what part of the Website Wire Frames.
