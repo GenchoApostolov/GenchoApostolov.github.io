@@ -45,8 +45,7 @@ And the last page was the Contact one.
 
 <img src="wireframes/contactdesktop.png" width=100%>
 
-
-<img src="wireframes/aboutdesktop.
+<img src="wireframes/websitecolorpalette.png" width=100%>
 
 ---
 
