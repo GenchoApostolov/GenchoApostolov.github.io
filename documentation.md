@@ -8,10 +8,10 @@ I decided to work with a Web-safe Grayscale Color Palette in order to keep the W
 |Color Value| Used For|
 |:----------|:--------|
 |#e9e9e9    |headings |
-|
-|
-|
-|
+|#c4c4c4    |text     |
+|##979797   |images   |
+|#4d4d4d    |sections |
+|#000000    |buttons  |
 
 ---
 
