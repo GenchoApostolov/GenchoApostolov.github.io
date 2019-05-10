@@ -29,9 +29,21 @@ And the last page was the Contact one.
 
 <img src="wireframes/contactmobile.png" width=30%>
 
-After finish the Mobile Wire Frames, I moved to designing their Desktop version counterparts.
+After finish the Mobile Wire Frames, I moved to designing their Desktop version counterparts. The first one was again, the Home page.
 
 <img src="wireframes/homedesktop.png" width=100%>
+
+Followed by the About page.
+
+<img src="wireframes/aboutdesktop.png" width=100%>
+
+Again, Services was the third designed Wire Frame page.
+
+<img src="wireframes/servicesdesktop.png" width=100%>
+
+And the last page was the Contact one.
+
+<img src="wireframes/contactdesktop.png" width=100%>
 
 
 <img src="wireframes/aboutdesktop.
