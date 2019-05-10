@@ -52,7 +52,8 @@ Having finished the Website Wire Frames, I moved on to decide what Color Palette
 <img src="wireframes/websitecolorpalette.png" width=100%>
 
 <h1> Evaluation </h1>
-In conclusion, developing my personal website has definately helped me resolve some self promotional issues and has given me a boost in confidence. I strived to write organised and semantically correct code and I think I achieved that quite well. Nevertheless I encountered several problems along the way, one of which I could not solve. I did quite a lot of research, but still did not manage to increase the display time of the message from my JavaScript function. I tried adding a setTimeout() function to it, but I still couldn't get it to work. Even though this problem proved to be really tedious I will continue trying to find a way to resolve it. All other issues were rather minor, nothing a quick Google Search couldn't fix. This project really helped me broaden my horizon and put my skills to a test.
+In conclusion, developing my personal website has definately helped me resolve some self promotional issues and has given me a boost in confidence. I strived to write organised and semantically correct code and I think I achieved that quite well. <br>
+Nevertheless I encountered several problems along the way, one of which I could not solve. I did quite a lot of research, but still did not manage to increase the display time of the message from my JavaScript function. I tried adding a setTimeout() function to it, but I still could not get it to work. Even though this problem proved to be really tedious I will continue trying to find a way to resolve it. All other issues were rather minor, nothing a quick Google Search could not fix. This project really helped me broaden my horizon and put my skills to a test.
 
 
 ---
