@@ -4,6 +4,8 @@ The development process started with the creation of the website's Wire Frames. 
 I decided to work with a Web-safe Grayscale Color Palette in order to keep the Wire Frames as simple as possible. 
 
 <img src="wireframes/colorpalette.png" width=100%>
+
+
 ---
 
 ## Contributors
