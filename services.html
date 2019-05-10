@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Personal Branding Website">
+    <meta name="keywords" content="web design, portfolio, front end developer, personal branding">
+    <meta name="author" content="Gencho Apostolov"> 
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="main.js"></script>
+    <title>Gencho Designs | Services</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Gencho Apostolov</span> Designs</h1>
+            </div>
+            <nav>
+                <ul class="nav">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li class="current"><a href="services.html">Services</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+        <!-- // container -->
+    </header>
+    <!-- // header -->
+
+    <section id="newsletter">
+        <div class="container">
+            <h1>Subscribe To My Newsletter</h1>
+            <form>
+                <input type="email" placeholder="Enter Email...">
+                <button type="submit" class="submit_button">Subscribe</button>
+            </form>
+        </div>
+    </section>
+    <!-- // newsletter -->
+
+    <section id="main">    
+        <div class="container">
+           <article id="main-col">
+            <h1 class="page-title">Services</h1>
+            <ul id="services">
+                <li>
+                    <h3>Designing a logo</h3>
+                    <p>It is no secret that advertising one's business or products is increadibly important. However, what is more important is the way they are being presented. My services can guarantee you a tactful approach to every problem and unique and breathtaking results. </p>
+                    <p>Pricing: 40£ - 120£</p>
+                </li>
+                <li>
+                    <h3>Redesigning a logo</h3>
+                    <p>Sometimes people feel like they need a little change. That is where the process of redesigning comes - through careful consideration of the client's views and collaborative work, a certain brand can be improved in more ways than one.</p>
+                    <p>Pricing: 110£ - 190£</p>
+                </li>
+                <li>
+                    <h3>Designing a website</h3>
+                    <p>Websites are a great way to show the world what you do. My skills will make you stand out and shine with your brightest colors.</p>
+                    <p>Pricing: 240£ - 450£</p>
+                </li>
+            </ul>
+           </article>
+            <!-- // main-col -->
+
+           <aside id="sidebar">
+                <div class="dark">
+                    <h3>Get A Quote</h3>
+                   <form class="quote">
+                       <div>
+                            <label>Name</label><br>
+                            <input type="text" placeholder="Name">
+                        </div>
+                        <div>
+                             <label>Email</label><br>
+                             <input type="email" placeholder="Email Address">
+                        </div>
+                        <div>
+                             <label>Message</label><br>
+                             <textarea placeholder="Message"></textarea>
+                        </div>
+                        <button class="submit_button" type="submit" onclick="revealMessage()">Send</button>
+                        <p id="hidden_message" style="display:none">Thank you for sending that!</p>
+                   </form>
+                </div>
+            </aside>
+            <!-- // sidebar -->
+        </div>
+        <!-- // container -->
+    </section>
+    <!-- // cards -->
+    <footer>
+        <p>Gencho Apostolov Designs, Copyright &copy; 2019</p>
+    </footer>
+</body>
+</html>
