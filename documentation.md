@@ -19,6 +19,8 @@ The approach I took while designing the Website Wire Frames was Mobile First. Th
 
 AFter that, the About page was created.
 
+<img src="wireframes/aboutmobile.png" width=30%>
+
 <img src="wireframes/aboutdesktop.
 
 ---
