@@ -15,7 +15,7 @@ I decided to work with a Web-safe Grayscale Color Palette in order to keep the W
 
 The approach I took while designing the Website Wire Frames was Mobile First. The image below illustrates the Wire Frame for the Home page on a Mobile device. 
 
-<img src="wireframes/homedmobile.png" width=100%>
+<img src="wireframes/homemobile.png" width=100%>
 
 AFter that, the About page was created.
 
