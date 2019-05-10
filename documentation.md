@@ -51,7 +51,8 @@ Having finished the Website Wire Frames, I moved on to decide what Color Palette
 
 <img src="wireframes/websitecolorpalette.png" width=100%>
 
-
+<h1> Evaluation </h1>
+  
 ---
 
 ## Contributors
